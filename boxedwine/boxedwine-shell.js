@@ -15,7 +15,7 @@
         let DEFAULT_RETRIEVE_REMOTE_DLL_FILES = false;
         let DEFAULT_HOME_DIRECTORY = ROOT + "/home/username/files/";
         let DEFAULT_BPP = 32;
-        let DEFAULT_ROOT_ZIP_FILE = "boxedwine.zip";
+        let DEFAULT_ROOT_ZIP_FILE = "./boxedwine.zip";
         //params
         let Config = {};
         Config.urlParams = "";
